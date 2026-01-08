@@ -42,3 +42,11 @@ I'm Tomás, I'm a software developer who is passionate about technologies and op
 </p>
 <br>
 
+<h3>Connect with me:</h3>
+<div>
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rougiertomas/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomasrougier_/)
+  
+</div>
+
